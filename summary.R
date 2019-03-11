@@ -1,1 +1,2 @@
-summary
+summary(x)
+summary(y)
